@@ -1,4 +1,8 @@
-### Hi there 👋
+### Owen McGill
+
+I am a software engineer working at Riedo Networks Ltd in Fribourg Switzerland.
+
+I'm passionate about distributed systems and programming in Go. I also love learning new programming languages.
 
 <!--
 **mcgillowen/mcgillowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
