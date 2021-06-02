@@ -1,6 +1,6 @@
 ### Owen McGill
 
-I am a software engineer working at Riedo Networks Ltd in Fribourg Switzerland.
+I am a Dev/Ops engineer working at Sqooba (acquired by Open Systems).
 
 I'm passionate about distributed systems and programming in Go. I also love learning new programming languages.
 
