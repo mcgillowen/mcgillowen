@@ -1,6 +1,6 @@
 ### Owen McGill
 
-I am a Dev/Ops engineer working at Sqooba (acquired by Open Systems).
+I am a senior software engineer working at RUAG C5I.
 
 I'm passionate about distributed systems and programming in Go. I also love learning new programming languages.
 
